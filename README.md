@@ -24,4 +24,12 @@ Migrated and stabilized an existing community Chinese localization on the 2025 S
 - Legacy-system investigation & problem solving
 - Automation and reusable workflows
 
+## Engineering Prototypes
+
+**Zero-Intrusion Desktop UI Translation**
+
+A local-AI desktop UI translation prototype exploring external UI observation, local inference, process isolation, model lifecycle management, privacy boundaries, and evidence-based release gating.
+
+→ [View the archived engineering prototype](https://github.com/yangguangxu35-code/local-ai-desktop-translation)
+
 More projects coming.
