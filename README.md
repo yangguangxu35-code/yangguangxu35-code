@@ -21,7 +21,7 @@ Migrated and stabilized an existing community Chinese localization on the 2025 S
 ## Current Focus
 
 - AI-assisted product building
-- Localization engineering and QA tooling
+- Legacy-system investigation & problem solving
 - Automation and reusable workflows
 
 More projects coming.
